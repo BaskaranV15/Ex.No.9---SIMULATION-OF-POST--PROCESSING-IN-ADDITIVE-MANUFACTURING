@@ -47,16 +47,17 @@
 ![Screenshot 2023-06-14 170242](https://github.com/BaskaranV15/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/118703522/1071ba8f-2ef1-442a-a29f-d69a899061d3)
 ![Screenshot 2023-06-14 170253](https://github.com/BaskaranV15/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/118703522/80fe3242-3e37-4a59-b741-0baf2759635e)
 ![Screenshot 2023-06-14 170300](https://github.com/BaskaranV15/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/118703522/ec229f31-1308-475e-aebd-c2a33928b2c2)
-
-
-
-
-
-
+## Heat Treatment of 3D printed part
+![Screenshot 2023-06-14 170436](https://github.com/BaskaranV15/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/118703522/eab4cabb-823a-4528-8075-7a40b9c9d84c)
+![Screenshot 2023-06-14 170445](https://github.com/BaskaranV15/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/118703522/fb65ec05-86ae-439f-b129-9f2945bbd4dc)
+![Screenshot 2023-06-14 170454](https://github.com/BaskaranV15/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/118703522/ea724127-fd70-4765-9758-5b6a779c7038)
+![Screenshot 2023-06-14 170501](https://github.com/BaskaranV15/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/118703522/d7f5166a-c8dc-4105-a753-cd9823e93120)
+![Screenshot 2023-06-14 170507](https://github.com/BaskaranV15/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/118703522/b7c0b71a-43f3-45f0-8448-f08f622b42c9)
+![Screenshot 2023-06-14 170514](https://github.com/BaskaranV15/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/118703522/fef5ab06-ad59-4e3b-a0b8-9ad16910f1d3)
 ## Output:
 
-### Name:
-### Register Number:
+#### Name:V.BASKARAN
+#### Register Number:212222230020
 
 ## Result: 
-### Thus the simulation on the Postprocessing in additive manufacturing is completed.
+ Thus the simulation on the Postprocessing in additive manufacturing is completed.
